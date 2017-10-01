@@ -1,8 +1,11 @@
 /*
-Not sure why the content is not centered
-on the protfolio page.
-Maybe I need to do a different class for
-content for portfoio page?
+To figure out:
+-centering portfolio images
+-less spacing after last portfolio image
+-bold in job title (use <p>?)
+-footer in portfolio page...
+  need diff class for this page?
+-active state, nav
 */
 
 .content{
@@ -103,6 +106,7 @@ footer {
 	font-family: 'Assistant', sans-serif;
 	font-size: 14px;
 	text-align: center;
+	padding-bottom: 100px;
 }
 
 img {
